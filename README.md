@@ -10,4 +10,4 @@ $ cd ~/.vscode/extensions
 $ git clone git@github.com:minorin22/monokai-japan.git
 ```
 
-Restart Visual Stdio Code and select color theme Monokai-Japan.
+Restart Visual Studio Code and select color theme Monokai-Japan.
