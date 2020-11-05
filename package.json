@@ -1,0 +1,1 @@
+{"name":"theme-monokai-japan","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"minorin","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"label":"Monokai-Japan","uiTheme":"vs-dark","path":"./themes/monokai-japan-color-theme.json"}]}}
