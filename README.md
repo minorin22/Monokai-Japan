@@ -1,6 +1,6 @@
 # Monokai-Japan
 Color theme for Visual Studio Code
-
+![screenshot](https://pbs.twimg.com/media/EmD8OR9VgAA-asi?format=jpg&name=large)
 Customized Monokai theme based on the color scheme of Japanesque.
 # Usage
 ```sh
