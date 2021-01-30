@@ -1,1 +1,29 @@
-{"name":"theme-monokai-japan","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"Minorin","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"label":"Monokai-Japan","uiTheme":"vs-dark","path":"./themes/monokai-japan-color-theme.json"}]}}
+{
+	"name": "theme-monokai-japan",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "Minorin",
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai-Japan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-japan-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "95ef3277-2f91-4480-9211-a6e7b84f1eca",
+		"publisherDisplayName": "Minorin",
+		"publisherId": "46c7d77e-8342-4b65-81e8-411b1f82a64d"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minorin22/Monokai-Japan.git"
+  }
+}
