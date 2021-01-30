@@ -2,7 +2,7 @@
 	"name": "theme-monokai-japan",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Minorin",
 	"license": "MIT",
 	"engines": {
